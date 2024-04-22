@@ -1,0 +1,49 @@
+{
+  "itemId" : "_HMvGoPtWEe6xdNUzVkhXhg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_RjMsgPtIEe6xdNUzVkhXhg",
+    "parameterList" : [ {
+      "id" : "_LAlUFPtIEe6xdNUzVkhXhg",
+      "name" : "Schema_ods"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_LARLAPtIEe6xdNUzVkhXhg",
+    "parameterList" : [ {
+      "id" : "_LAlUF_tIEe6xdNUzVkhXhg",
+      "name" : "addionalParam"
+    }, {
+      "id" : "_LAlUEvtIEe6xdNUzVkhXhg",
+      "name" : "Database"
+    }, {
+      "id" : "_LAlUFvtIEe6xdNUzVkhXhg",
+      "name" : "Password"
+    }, {
+      "id" : "_LAlUE_tIEe6xdNUzVkhXhg",
+      "name" : "Port"
+    }, {
+      "id" : "_LAlUFPtIEe6xdNUzVkhXhg",
+      "name" : "Schema_Params"
+    }, {
+      "id" : "_LAlUEftIEe6xdNUzVkhXhg",
+      "name" : "Server_Name"
+    }, {
+      "id" : "_LAlUFftIEe6xdNUzVkhXhg",
+      "name" : "Utilisateur"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_JBUVkPtJEe6xdNUzVkhXhg",
+    "parameterList" : [ {
+      "id" : "_JBc4c_tJEe6xdNUzVkhXhg",
+      "name" : "encodage"
+    }, {
+      "id" : "_JBc4cvtJEe6xdNUzVkhXhg",
+      "name" : "fileSeparator"
+    }, {
+      "id" : "_JBc4cftJEe6xdNUzVkhXhg",
+      "name" : "projectFolder"
+    } ]
+  } ]
+}
